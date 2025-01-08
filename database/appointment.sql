@@ -224,8 +224,8 @@ INSERT INTO `patient` (`id`, `name`, `gender`, `dob`, `phone`, `username`, `pass
 --
 -- Indexes for table `admintable`
 --
-ALTER TABLE `admintable`
-  ADD PRIMARY KEY (`id`);
+--ALTER TABLE `adminta
+--  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `booking`
