@@ -7,6 +7,7 @@ function signin()
         if($_POST['uname']=='admin' && $_POST['psw']=='admin')
         { 
             header("Location:AdminPage.php");
+            exit;
         }
         else 
         { 
